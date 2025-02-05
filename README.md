@@ -14,9 +14,9 @@ _Python and Tableau._
 ## Hong Kong International Airport (HKG) Code Walkthrough   
 A fun data journalism project investigating the tourism and air travel fall-out for Hong Kong following the encroachment of the Communist Party of China.    
 _Python._   
+**Medium Article:** ["Government Policies Have Dimmed the Pearl of the East"](https://medium.com/@rebecca.truong).
 **Jupyter Notebooks:**   
   + [Hong Kong International Airport (HKG) Code Walkthrough](https://github.com/rebeccatruong7/Data-Projects/blob/main/HKG%20Code%20Walkthrough.ipynb)   
-**Article:** ["Government Policies Have Dimmed the Pearl of the East"](https://medium.com/@rebecca.truong).
 
 ## Other projects   
 **Nashville Housing Data Cleaning Query**   
