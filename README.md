@@ -16,13 +16,13 @@ _Python and Tableau._
 
 
 <ins>**Final datasets**</ins>    
-[crx places](https://github.com/rebeccatruong7/Data-Projects/blob/main/crx_places.csv): contains places in San Francisco that sell croissants, addresses, websites, phone numbers, and price   
-[sf_wealth](https://github.com/rebeccatruong7/Data-Projects/blob/main/sf_wealth.csv): contains the Median Household Income (from 2022 American Census Survey), ZORI (Zillow Observed Rental Index), ZHVI (Zillow Home Value Index) for each zipcode in San Francisco   
+[crx places](https://github.com/rebeccatruong7/Data-Projects/blob/main/crx_places.csv) - contains places in San Francisco that sell croissants, addresses, websites, phone numbers, and price   
+[sf_wealth](https://github.com/rebeccatruong7/Data-Projects/blob/main/sf_wealth.csv) - contains the Median Household Income (from 2022 American Census Survey), ZORI (Zillow Observed Rental Index), ZHVI (Zillow Home Value Index) for each zipcode in San Francisco   
 
 ## Hong Kong International Airport (HKG) Code Walkthrough   
 A fun data journalism project investigating the tourism and air travel fall-out for Hong Kong following the encroachment of the Communist Party of China.    
 _Python._   
-**Medium Article:** ["Government Policies Have Dimmed the Pearl of the East"](https://medium.com/@rebecca.truong).   
+**Medium Article** - ["Government Policies Have Dimmed the Pearl of the East"](https://medium.com/@rebecca.truong).   
 <ins>**Jupyter Notebooks**</ins>      
 [Hong Kong International Airport (HKG) Code Walkthrough](https://github.com/rebeccatruong7/Data-Projects/blob/main/HKG%20Code%20Walkthrough.ipynb)   
 
