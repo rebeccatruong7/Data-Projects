@@ -1,7 +1,7 @@
 # Data-Projects
 I keep the code for my data projects in this repository!
 
-[Croissant Pricing & Wealth Distribution in San Francisco]()
+[Croissant Pricing & Wealth Distribution in San Francisco]() 
 This was a passion project exploring the relationship between item pricing, for croissants in this case, and neighborhood wealth. _Python and Tableau used_
   Final datasets: 
   + [crx places](): contains places in San Francisco that sell croissants, addresses, websites, phone numbers, and price
