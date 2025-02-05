@@ -2,7 +2,7 @@
 I keep the code for my data projects in this repository!
 
 [Croissant Pricing & Wealth Distribution in San Francisco]()   
-This was a passion project exploring the relationship between item pricing, for croissants in this case, and neighborhood wealth. _Python and Tableau used_
+This was a passion project exploring the relationship between item pricing, for croissants in this case, and neighborhood wealth. _Python and Tableau used_   
   Final datasets: 
   + [crx places](): contains places in San Francisco that sell croissants, addresses, websites, phone numbers, and price
   + [sf_wealth](): contains the Median Household Income (from 2022 American Census Survey), ZORI (Zillow Observed Rental Index), ZHVI (Zillow Home Value Index) for each zipcode in San Francisco
