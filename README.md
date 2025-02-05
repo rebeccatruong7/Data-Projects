@@ -2,7 +2,7 @@
 I keep the code for my data projects in this repository!
 
 ## [Croissant Pricing & Wealth Distribution in San Francisco]()   
-This was a passion project exploring the relationship between item pricing, for croissants in this case, and neighborhood wealth.   
+This was a passion project exploring the relationship between item pricing, for croissants in this case, and neighborhood wealth in San Francisco.   
 _Python and Tableau._      
 **Tableau Workbook:** [Homepage](https://public.tableau.com/views/sf_croissant_project/homepage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)   
 **Jupyter Notebooks:**   
