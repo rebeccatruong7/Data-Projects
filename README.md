@@ -1,7 +1,7 @@
 # Data-Projects
 I keep the code for my data projects in this repository!
 
-[**Hong Kong International Airport (HKG) Code Walkthrough**](https://github.com/rebeccatruong7/Data-Projects/blob/main/HKG%20Code%20Walkthrough.ipynb)   
+**Hong Kong International Airport (HKG) Code Walkthrough**[click here](https://github.com/rebeccatruong7/Data-Projects/blob/main/HKG%20Code%20Walkthrough.ipynb)   
 I used Python to create the data visualizations in ["Government Policies Have Dimmed the Pearl of the East"](https://medium.com/@rebecca.truong).
 
 **Nashville Housing Data Cleaning Query**   
