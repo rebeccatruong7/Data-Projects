@@ -12,7 +12,7 @@ This was a passion project exploring the relationship between item pricing, for 
 <ins>**Jupyter Notebooks**</ins>      
 1. [grab_sf_bakeries.ipynb](https://github.com/rebeccatruong7/Data-Projects/blob/main/grab_sf_bakeries.ipynb)   
 2. [clean_sf_bakeries.ipynb](https://github.com/rebeccatruong7/Data-Projects/blob/main/clean_sf_bakeries.ipynb)   
-3. [neighborhood_wealth_in_sf](https://github.com/rebeccatruong7/Data-Projects/blob/main/neighborhood_wealth_in_sf.ipynb)   
+3. [neighborhood_wealth_in_sf.ipynb](https://github.com/rebeccatruong7/Data-Projects/blob/main/neighborhood_wealth_in_sf.ipynb)   
 4. [sf_crx_tableau_prep.ipynb](https://github.com/rebeccatruong7/Data-Projects/blob/main/sf_crx_tableau_prep.ipynb)   
 
 
