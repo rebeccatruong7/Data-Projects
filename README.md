@@ -7,7 +7,7 @@ _Python and Tableau._
 **Tableau Workbook:** [Homepage](https://public.tableau.com/views/sf_croissant_project/homepage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)   
 **Jupyter Notebooks:**   
   + fkdlgjhfkghkjfh   
-<a/>
+[//]: # (Hello)
 **Final datasets:** 
   + [crx places](): contains places in San Francisco that sell croissants, addresses, websites, phone numbers, and price
   + [sf_wealth](): contains the Median Household Income (from 2022 American Census Survey), ZORI (Zillow Observed Rental Index), ZHVI (Zillow Home Value Index) for each zipcode in San Francisco
