@@ -5,7 +5,7 @@ I keep the code for my data projects in this repository!
 _Python and Tableau._    
 This was a passion project exploring the relationship between item pricing, for croissants in this case, and neighborhood wealth in San Francisco.   
   
-**Croissants in San Francisco** [Video](https://youtu.be/zLRElMrBnSA)   
+**Croissants in San Francisco** [Video Story](https://youtu.be/zLRElMrBnSA)   
 **Tableau** [Workbook](https://public.tableau.com/views/sf_croissant_project/homepage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
    
    
