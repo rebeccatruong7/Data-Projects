@@ -1,0 +1,47 @@
+bakery_id,name,address,postcode,chain,price,latitude,longitude
+3,Acme Bread Company,"Ferry Building, Bay Trail #15, San Francisco, CA 94111, United States",94111,True,3.97,37.79675780000001,-122.3933848
+4,Ambrosia Bakery,"2605 Ocean Ave, San Francisco, CA 94132, United States",94132,False,4.25,37.7315244,-122.4734815
+6,Arizmendi Bakery,"1331 9th Ave, San Francisco, CA 94122, United States",94122,True,5.49,37.7634078,-122.4664721
+7,Arsicault Bakery,"397 Arguello Blvd, San Francisco, CA 94118, United States",94118,True,4.75,37.7834259,-122.4593062
+8,Arsicault Bakery Civic Center,"87 McAllister St, San Francisco, CA 94102, United States",94102,True,4.75,37.7808262,-122.4133679
+11,Black Jet Baking Co.,"833 Cortland Ave, San Francisco, CA 94110, United States",94110,False,5.0,37.7390734,-122.4141355
+13,Boho Petite,"2146 Chestnut St, San Francisco, CA 94123, United States",94123,False,6.0,37.80072699999999,-122.4387615
+14,Breadbelly,"1408 Clement St, San Francisco, CA 94118, United States",94118,False,5.25,37.7826949,-122.4744036
+18,California Bakery,"719 Taraval St, San Francisco, CA 94116, United States",94116,False,3.75,37.7429588,-122.473979
+22,Cinderella Bakery & Cafe,"436 Balboa St, San Francisco, CA 94118, United States",94118,False,3.95,37.7774282,-122.4636638
+23,Craftsman and Wolves Valencia,"746 Valencia St, San Francisco, CA 94110, United States",94110,True,5.75,37.760901,-122.4217741
+26,Destination Baking Company,"598 Chenery St, San Francisco, CA 94131, United States",94131,False,3.55,37.7346776,-122.4322732
+27,Diamond Coffee N Pastry,"2575 Judah St. San Francisco, CA 94122",94122,True,4.0,37.7610021,-122.4896791
+28,Diamond Coffee N Pastry,"1014 Clement St.  San Francisco, CA 94118",94118,True,4.0,37.7829032,-122.4701914
+29,Diamond Coffee N Pastry,"6909 Geary Blvd, San Francisco, CA 94121",94121,True,4.0,37.7794514,-122.4935563
+32,Fillmore Bakeshop,"1890 Fillmore Street Between Sutter St &, Bush St, San Francisco, CA 94115, United States",94115,False,5.0,37.78694550000001,-122.43321
+33,Flour & Branch,"493 3rd St, San Francisco, CA 94107, United States",94107,False,7.5,37.7816299,-122.3958655
+35,Gateway Croissant,"390 Golden Gate Ave, San Francisco, CA 94102, United States",94102,False,3.5,37.7816178,-122.4170643
+38,Hahdough,"1221 Fell St, San Francisco, CA 94117, United States",94117,False,5.0,37.77380369999999,-122.4383099
+43,Jane The Bakery,"1881 Geary Blvd, San Francisco, CA 94115, United States",94115,True,5.5,37.7837556,-122.4342272
+46,Juniper,"1401 Polk St, San Francisco, CA 94109, United States",94109,False,5.0,37.789742,-122.4207557
+47,Kahnfections,"3321 20th St, San Francisco, CA 94110, United States",94110,False,4.75,37.75874,-122.4152417
+52,La Boulangerie de San Francisco,"500 Hayes St, San Francisco, CA 94102, United States",94102,True,4.68,37.7767761,-122.4247969
+53,La Boulangerie de San Francisco,"2325 Pine St, San Francisco, CA 94115, United States",94115,True,4.68,37.7878215,-122.4340828
+54,"La Boulangerie de San Francisco, Cole Valley","1000 Cole St, San Francisco, CA 94117, United States",94117,True,4.68,37.7647667,-122.4494884
+55,"La Boulangerie de San Francisco, Noe Valley","3898 24th St, San Francisco, CA 94114, United States",94114,True,4.68,37.7517457,-122.4295173
+58,Le Marais Bakery,"1138 Sutter St, San Francisco, CA 94109, United States",94109,False,4.5,37.7879923,-122.4191887
+59,Le Marais Bakery,"498 Sanchez St, San Francisco, CA 94114, United States",94114,False,4.5,37.7612709,-122.4307511
+63,Maison Nico,"710 Montgomery St, San Francisco, CA 94111, United States",94111,False,4.5,37.7958011,-122.4031672
+67,Neighbor Bakehouse,"2343 3rd St UNIT 100, San Francisco, CA 94107, United States",94107,False,4.25,37.7596149,-122.3881892
+68,Noe Valley Bakery,"4073 24th St, San Francisco, CA 94114, United States",94114,True,4.35,37.7511687,-122.4334309
+69,Noe Valley Bakery West Portal,"28 W Portal Ave, San Francisco, CA 94127, United States",94127,True,4.35,37.7406541,-122.4663836
+71,ONE65 Patisserie & Boutique,"165 O'Farrell St 1st Floor, San Francisco, CA 94102, United States",94102,False,5.0,37.7862462,-122.407371
+72,Paris Baguette,"550 Market St, San Francisco, CA 94104, United States",94104,False,5.49,37.7899072,-122.4009113
+73,Paris Baguette,"3995 Alemany Blvd, San Francisco, CA 94132, United States",94132,False,5.49,37.7102661,-122.4679266
+74,Paris Cafe,"142 McAllister St, San Francisco, CA 94102, United States",94102,False,4.75,37.78093459999999,-122.4144382
+77,Poesia Cafe,"4076 18th St, San Francisco, CA 94114, United States",94114,False,4.25,37.7610934,-122.4344138
+91,Tartine Bakery,"600 Guerrero St, San Francisco, CA 94110, United States",94110,True,6.25,37.7614257,-122.4240202
+92,Tartine Inner Sunset,"1226 9th Ave, San Francisco, CA 94122, United States",94122,True,6.25,37.7653727,-122.4661285
+93,Tartine Manufactory,"595 Alabama St, San Francisco, CA 94110, United States",94110,True,6.25,37.7618459,-122.4119475
+94,The Bernal Basket,"521 Cortland Ave, San Francisco, CA 94110",94110,False,4.5,37.7391265,-122.4160624
+95,The French Spot,"1042 Larkin St, San Francisco, CA 94109, United States",94109,False,5.65,37.7877771,-122.4181895
+96,Thorough Bread & Pastry,"248 Church St, San Francisco, CA 94114, United States",94114,False,3.75,37.76662590000001,-122.42904
+100,Vive La Tarte,"4026 24th St, San Francisco, CA 94114, United States",94114,False,5.0,37.7514771,-122.4326019
+102,b. patisserie,"2821 California St, San Francisco, CA 94115, United States",94115,False,4.95,37.7878756,-122.4408695
+103,jina bakes,"1581 Webster St #150, San Francisco, CA 94115, United States",94115,False,4.0,37.7850605,-122.4315534
