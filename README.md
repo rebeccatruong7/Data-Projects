@@ -25,8 +25,7 @@ _Python._
 A fun data journalism project investigating the tourism and air travel fall-out for Hong Kong following the encroachment of the Communist Party of China.    
   
 **Medium Article** - ["Government Policies Have Dimmed the Pearl of the East"](https://medium.com/@rebecca.truong).   
-<ins>**Jupyter Notebooks**</ins>      
-[Hong Kong International Airport (HKG) Code Walkthrough](https://github.com/rebeccatruong7/Data-Projects/blob/main/HKG%20Code%20Walkthrough.ipynb)   
+**Jupyter Notebook** - [Hong Kong International Airport (HKG) Code Walkthrough](https://github.com/rebeccatruong7/Data-Projects/blob/main/HKG%20Code%20Walkthrough.ipynb)   
 
 ## Other projects   
 **Nashville Housing Data Cleaning** [Query](https://github.com/rebeccatruong7/Data-Projects/blob/main/Nashville%20Housing%20Data%20Cleaning%20Queries.sql)      
