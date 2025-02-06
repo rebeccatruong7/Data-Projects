@@ -1,5 +1,5 @@
 # Data-Projects
-I keep the code for my data projects in this repository!
+Code and datasets for my data projects are all in this repository!
 
 ## Croissant Pricing & Wealth Distribution in San Francisco   
 _Python and Tableau._    
