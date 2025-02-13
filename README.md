@@ -3,7 +3,7 @@ Code and datasets for my data projects are all in this repository!
 
 ## Croissant Pricing & Wealth Distribution in San Francisco   
 _Python and Tableau._    
-This was a passion project exploring the relationship between item pricing, for croissants in this case, and neighborhood wealth in San Francisco.   
+A fun video essay investigating the relationship between item pricing of croissants and neighborhood wealth in San Francisco. (Last updated in February 2025). 
   
 **Croissants in San Francisco** [Video Essay](https://youtu.be/wX7181LkLNU)   
 **Tableau** [Workbook](https://public.tableau.com/views/sf_croissant_project/homepage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
@@ -22,8 +22,8 @@ This was a passion project exploring the relationship between item pricing, for 
 
 ## Hong Kong Air Travel Amongst Political Turmoil   
 _Python._    
-A fun data journalism project investigating the tourism and air travel fall-out for Hong Kong following the encroachment of the Communist Party of China.    
-  
+A data journalism project investigating the dip in air travel in Hong Kong since the CCP’s takeover. (Last updated in July 2023).
+
 **Medium Article** - ["Government Policies Have Dimmed the Pearl of the East"](https://medium.com/@rebeccatruong7/government-policies-have-dimmed-the-pearl-of-the-east-bd0f1a855536).   
 **Jupyter Notebook** - [Hong Kong International Airport (HKG) Code Walkthrough](https://github.com/rebeccatruong7/Data-Projects/blob/main/HKG%20Code%20Walkthrough.ipynb)   
 
