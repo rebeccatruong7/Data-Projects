@@ -9,14 +9,14 @@ A fun video essay investigating the relationship between item pricing of croissa
 **Tableau** [Workbook](https://public.tableau.com/views/sf_croissant_project/homepage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
    
    
-<ins>**Jupyter Notebooks**</ins>      
+**Jupyter Notebooks**      
 1. [grab_sf_bakeries.ipynb](https://github.com/rebeccatruong7/Data-Projects/blob/main/grab_sf_bakeries.ipynb)   
 2. [clean_sf_bakeries.ipynb](https://github.com/rebeccatruong7/Data-Projects/blob/main/clean_sf_bakeries.ipynb)   
 3. [neighborhood_wealth_in_sf.ipynb](https://github.com/rebeccatruong7/Data-Projects/blob/main/neighborhood_wealth_in_sf.ipynb)   
 4. [sf_crx_tableau_prep.ipynb](https://github.com/rebeccatruong7/Data-Projects/blob/main/sf_crx_tableau_prep.ipynb)   
 
 
-<ins>**Final datasets**</ins>    
+**Final datasets**    
 [crx places](https://github.com/rebeccatruong7/Data-Projects/blob/main/crx_places.csv) - contains places in San Francisco that sell croissants, addresses, websites, phone numbers, and price   
 [sf_wealth](https://github.com/rebeccatruong7/Data-Projects/blob/main/sf_wealth.csv) - contains the Median Household Income (from 2022 American Census Survey), ZORI (Zillow Observed Rental Index), ZHVI (Zillow Home Value Index) for each zipcode in San Francisco   
 
